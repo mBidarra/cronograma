@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <title>Document</title>
+</head>
+
+<body>
+  <div class='background-image'></div>
+  <header>
+    <nav>
+      <ul class="header">
+        <li class="logo">
+          <img src="components/rocket.svg" alt="logo">
+        </li>
+        <li style="margin-left: 140px;">
+          <a href="#">
+            <h3 class="li">
+              Home
+            </h3>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <h3 class="li">
+              Historia
+            </h3>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <h3 class="li">
+              Contato
+            </h3>
+          </a>
+        </li>
+        <li>
+          <a href="#">
+            <h3 class="li">
+              Duvidas
+            </h3>
+          </a>
+        </li>
+        <li class="li">
+          <button class="button1">Venha ser Aventre!</button>
+        </li>
+        <li class="planet">
+          <img src="components/planet-1.svg">
+        </li>
+        <li class="planet2">
+          <img src="components/planet-2.svg">
+        </li>
+      </ul>
+
+    </nav>
+  </header>
+  <main>
+    </div>
+    <section class='wtf'>
+      <h1>Aventre, uma nova forma de criar Startups</h1>
+      <a href="https://github.com/mBidarra/cronograma">
+        <img src="components/button_linkEasterEgg.svg" style="padding-left: 10px; z-index:1;" alt="easterEgg">
+      </a>
+    </section>
+    <h3>Impactando vidas, interferindo na história e mudando o mundo!</h3>
+    <h5>Cras nulla nunc, molestie sed lobortis ac, eleifend at elit. Etiam feugiat eleifend molestie. Curabitur tincidunt congue lacus, et laoreet erat lacinia quis. Sed nibh tellus, commodo id consequat nec, malesuada eget tellus.</h5>
+    <nav>
+      <ul class="buttons">
+        </li>
+        <li class="li">
+          <a href="google.com">
+            <button class="button">Venha ser Aventre!</button>
+          </a>
+        </li>
+        <li class="li">
+          <button class="button2">Quero saber mais ⇨ </button>
+        </li>
+      </ul>
+    </nav>
+  </main>
+  <footer>
+
+  </footer>
+</body>
+
+</html>
